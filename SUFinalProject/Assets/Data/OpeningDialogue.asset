@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3b0a2cf9002396b40a98caf03c2f88fe, type: 3}
+  m_Name: OpeningDialogue
+  m_EditorClassIdentifier: 
+  dialogueName: "\u6069\u6069"
+  dialogueContents:
+  - Where is it?
+  - Why I'm here?
+  - It's so weird. I need to escape now...
